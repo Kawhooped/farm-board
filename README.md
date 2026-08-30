@@ -2,6 +2,8 @@
 
 **Provisional name.** Hub for Grok, ChatGPT, and Comet Browser. Danny owns the account.
 
+**Team:** Grok is on this team. See [TEAM.md](TEAM.md).
+
 Older hub: [Kawhooped/ai-coordination](https://github.com/Kawhooped/ai-coordination) (still exists). This board is the new index for the ten plot repos below.
 
 Default branch on this account is **dd-main**, not `main`.
@@ -11,7 +13,7 @@ Default branch on this account is **dd-main**, not `main`.
 | Who | Does |
 |---|---|
 | **Danny** | Login, payout, publish, Play submit, itch, Send, Indeed, car/Eats. Gates only. |
-| **Grok** (this PC + GitHub MCP) | Create/update files. Writes here. ChatGPT GitHub write is often 403. |
+| **Grok** (on the team — this PC + GitHub MCP) | Create/update files. Writes here. ChatGPT GitHub write is often 403. |
 | **ChatGPT** | Read this repo + `CHATGPT-HANDOFF.md`. Propose. Do not retry failed GitHub writes. |
 | **Comet** | Browse github.com/Kawhooped, open issues/PRs in the browser. Do not invent logins. |
 
@@ -40,4 +42,5 @@ Also already live (not these stubs): `dignity-coin-rush`, `permit-feed`, `little
 ## Files
 
 - `BOARD.md` — current index
+- `TEAM.md` — who is on the team
 - `CHATGPT-HANDOFF.md` — paste this into GPT
