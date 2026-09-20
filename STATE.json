@@ -1,0 +1,55 @@
+{
+  "updated": "2026-09-20T07:48:00-04:00",
+  "hub": "farm-board",
+  "older_hub": "ai-coordination",
+  "owner": "Danny",
+  "github": "Kawhooped",
+  "branch": "dd-main",
+  "current_plot": "plot-dignity",
+  "current_plot_goal": "Public itch URL that plays Dignity Coin Rush in the browser",
+  "public_site": {
+    "repo": "Kawhooped/voidd-sales",
+    "url": "https://kawhooped.github.io/voidd-sales/",
+    "shop_headline": "Shop.",
+    "phone_on_pages": false,
+    "google_auth": false,
+    "firebase": null,
+    "tools_status": "toy-farm",
+    "store_status": "fallback-plus-json"
+  },
+  "blocked_on_danny": [
+    "itch public publish for Dignity",
+    "Firebase / Google OAuth client if he wants Sign-In board",
+    "Gumroad URLs for shop SKUs that still say soon"
+  ],
+  "queued": [
+    "Replace farm.html toys with real client-side tools",
+    "Copy CodeShelf Gumroad links onto shop cards",
+    "PWA manifest for add-to-home-screen",
+    "Strip phone from voidd-sales-platform if he asks"
+  ],
+  "agents": {
+    "danny": "gates: money, publish, logins",
+    "grok": "writes files on GitHub",
+    "chatgpt": "read + propose; often 403 on write",
+    "comet": "browser verify"
+  },
+  "working_html_from_chat": [
+    "neon-cropper-v3-batch.html",
+    "fade-video-maker.html",
+    "codeshelf-offline-1.html",
+    "joint-rite-1.html",
+    "voidd-app-builder.html",
+    "concept-calculator.html",
+    "neo-metropolis.html",
+    "cybermaze-3d-remade-from-scratch.html"
+  ],
+  "do_not": [
+    "public phone number",
+    "fake Google login",
+    "keys in git",
+    "two agents push same branch same minute",
+    "Play submit without Danny",
+    "new plot while Dignity itch is Current unless Danny says"
+  ]
+}
