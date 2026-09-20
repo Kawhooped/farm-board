@@ -12,6 +12,8 @@ Repo: https://github.com/Kawhooped/voidd-sales  branch `dd-main`
 | Blog | blog.html | three notes |
 | Shop | store.html | headline Shop. fallback catalog + products.json |
 | CodeShelf | codeshelf.html | ten Gumroad packs, live buy links |
+| Database | db.html | STATE.json + SKUs + action verbs. noindex |
+| Manager | manager.html | edit catalog locally, download JSON |
 | Contact | call.html | no public number |
 | License | license.html | MIT public / exclusive commercial |
 | Ghost Turk | play/ghost-turk.html | playable |

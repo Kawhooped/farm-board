@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T07:48:00-04:00",
+  "updated": "2026-09-20T06:31:00-04:00",
   "hub": "farm-board",
   "older_hub": "ai-coordination",
   "owner": "Danny",
@@ -10,6 +10,7 @@
   "public_site": {
     "repo": "Kawhooped/voidd-sales",
     "url": "https://kawhooped.github.io/voidd-sales/",
+    "database_page": "https://kawhooped.github.io/voidd-sales/db.html",
     "shop_headline": "Shop.",
     "phone_on_pages": false,
     "google_auth": false,
